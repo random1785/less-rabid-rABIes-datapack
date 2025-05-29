@@ -1,5 +1,5 @@
 # less-rabid-rABIes-datapack
-[rABIes datapack](https://github.com/random1785/rABIes-datapack) but without the usage of chunkbase.
+[rABIes datapack](https://github.com/random1785/rABIes-datapack) but without the usage of chunkbase. This datapack is specifically for `1.21.5`. It will not work on previous versions due to blocks and items specific to this update being part of the objective list.
 
 ## Features
 Players will be placed in a random location in the world with seed `1785` and will be told to speedrun a certain Advancement, Block, or Item (hence the ABI in rABIes).<br>
