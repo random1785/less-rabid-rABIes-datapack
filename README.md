@@ -7,7 +7,8 @@ Each objective is assigned a relative difficulty level (of course, it varies fro
 Players also have a maximum time limit of 10000 ticks, or 8 minutes and 20 seconds, to complete the objective. <br>
 The datapack lasts 10 rounds. A semi-complicated scoring system and method of determining the objective is also at play. <br>
 The list of objectives has been handpicked to not require insane levels of RNG (although, some is inevitably present). Therefore, Chunkbase is banned for this one.
-A spreadsheet further explaining everything is avaliable \<link to come\>.
+A spreadsheet further explaining everything is avaliable \<link to come\>.<br>
+Players can redisplay the objective with `/trigger reminder` and can forefit the round with `/trigger zzzforefit`. 
 
 
 ## More technical stuff for myself
@@ -22,5 +23,6 @@ Sometimes, the datapack gives more difficulty x rounds than it should. This appe
 Golems are meant to be set to a health of 20 to avoid congestion and petty fighting in village spawns.<br>
 Wandering Traders and Pillager Patrol spawns are meant to be turned off to remove rare RNG that can give certain players an advantage.<br>
 Players currently can circumvent the scoring process by leaving the game as the scores are calculated.<br>
-Make players that join get a starting score of `150*round`. 
+Make players that join get a starting score of `150*round`. <br>
+Make forefitting only possible if the player runs the command twice within a second (or some other range) to prevent accidental forefits.
 
